@@ -1,5 +1,5 @@
 # QuitandaOnline
-Aula em desenvolvimento <br>
+Aula em desenvolvimento (Projeto ainda não finalizado )<br>
 Site E-commerce de uma Frutaria On-line desenvolvido com   <img src="https://user-images.githubusercontent.com/57731043/167746751-ff33b307-75ed-485d-84b0-5cf4874e52a2.png" width="30px" /> , 
 <img src="https://user-images.githubusercontent.com/57731043/167746261-25d6eb5e-7925-4b71-897c-11a2c470a9f5.png" width="40px" /> e
 <img src="https://user-images.githubusercontent.com/57731043/167746978-14976510-d801-49d9-a12b-cb2666b28b47.png" width="20px"/> <br>
